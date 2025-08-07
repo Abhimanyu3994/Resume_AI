@@ -1,0 +1,55 @@
+Name: Abhimanyu S O  
+Email: abhimanyu0430@gmail.com  
+Phone: +91 82206 90123  
+GitHub: https://github.com/Abhimanyu3994  
+LinkedIn: https://www.linkedin.com/in/abhimanyu-s-o-912a20217/  
+Location: Tamil Nadu, India  
+
+SUMMARY  
+Entry-level software developer with a passion for coding, problem-solving, and full-stack web development.  
+Skilled in Java, JavaScript, and React.js with hands-on internship and project experience.  
+Strong foundation in data structures, object-oriented programming, and software engineering principles.  
+Eager to contribute to a dynamic tech team and grow as a professional developer.  
+
+INTERNSHIP EXPERIENCE  
+1. Technohacks Pvt Ltd (Web Development Intern) — July 2023 to August 2023  
+   - Developed and optimized blog websites, improving load-time performance by 12% and reducing bugs by 30%.  
+   - Ensured standards compliance through cross-browser testing and validation.  
+   - Completed key real-world development tasks using modern tech stacks.  
+
+2. CodSoft Pvt Ltd (Python Programming Intern) — June 2024 to July 2024  
+   - Applied core Python concepts to mini projects, improving development efficiency by 70%.  
+   - Streamlined modules and workflows, focusing on logic building and modular programming.  
+   - Practiced real-time development and problem-solving scenarios.  
+
+SKILLS  
+Languages: Python (Intermediate), C, Java (Intermediate), HTML5, CSS3, JavaScript  
+Database: SQL  
+Libraries & Frameworks: React.js, Node.js  
+Tools: Git, GitHub  
+Soft Skills: Problem-solving, Critical thinking, Team collaboration, Adaptability  
+
+PROJECTS  
+1. Blockchain-Enabled Digital Banking DApp  
+   - Built a decentralized wallet app using React.js, Web3, MetaMask, and Ethers.js.  
+   - Enabled secure, peer-to-peer cryptocurrency transactions using smart contracts.  
+   - Enhanced UI with Bootstrap and ensured seamless navigation, encryption, and authentication.  
+
+2. Mood-Based Weather App  
+   - Developed a real-time weather application using React.js and OpenWeather API.  
+   - Implemented dynamic forecasts, location search, and responsive design.  
+   - Used async API calls and error handling to achieve 99% uptime.  
+   - Improved UX with animations and clean UI, reducing interaction time by 30%.  
+
+EDUCATION  
+Bachelor of Engineering in Computer Science and Engineering  
+Annamalai University — Dec 2021 to May 2025  
+
+HSC (12th) - Seetha Kingston: 86.12%  
+SSLC (10th) - Seetha Kingston: 81.2%  
+
+ADDITIONAL INFORMATION  
+Languages Spoken: Tamil, English, Kannada  
+Certifications:  
+- Software Engineering Virtual Experience - Accenture  
+- Web Development
