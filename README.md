@@ -31,9 +31,9 @@ This is an AI resume reader powered by **Gemini Pro ** and **LlamaIndex**, desig
 
 ---
 
-## 🛠 Setup Instructions
+### 🛠 Setup Instructions
 
-### 1. Clone this Repository
+## 1. Clone this Repository
 
 ```bash
 git clone https://github.com/Abhimanyu3994/Resume_AI.git
@@ -44,19 +44,19 @@ cd Resume_AI
  python -m venv venv
 venv\Scripts\activate
 ```
-##Install Dependencies
+## Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###Add your API key in .env file
+## Add your API key in .env file
 ```bash
 GOOGLE_API_KEY=your_google_api_key_here
 ```
-##Add Your Resume and Prompt
+## Add Your Resume and Prompt
 -Place your resume as resume.txt in the root folder.
 -Add your prompt format in prompt_template.txt.
 
-##Run the app
+## Run the app
 ```bash
 uvicorn main:app --reload
 ```
